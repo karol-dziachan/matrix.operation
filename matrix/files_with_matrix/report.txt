@@ -1,0 +1,33 @@
+
+103 - Not number in file. This expression is default value now (0)
+
+
+
+203 - Multiply is not possible. Action not performed.
+202 - Subtraction is not possible. Action not performed.
+
+
+
+105 - No enough numbers in file. The program add default value (0) enough times.
+
+
+
+105 - No enough numbers in file. The program add default value (0) enough times.
+
+
+
+101 - Failed to open file. Program took default value (0) and default dimensions (5x5)
+
+
+
+103 - Not number in file. This expression is default value now (0)
+
+
+
+103 - Not number in file. This expression is default value now (0)
+
+
+
+103 - Not number in file. This expression is default value now (0)
+
+
