@@ -1,4 +1,5 @@
 # matrix.operation
+
 This is my study programs, in which I had to program matrix operations
 
 
@@ -8,16 +9,28 @@ The errors are report by codes to CError, and while the program exits the codes 
 
 Operations:
 -add
+
 -subtraction
+
 -multiply
+
 -calculate scalar
+
 -transposition
+
 -read from file
+
 -get/set matrix element
+
 /create a vector from the given row or column
 
+
+
 Constructor:
+
 -without parametr (use default dimension and default value inside matrix)
+
 -with dimension (use default value in matrix)
+
 -with path to file
 
